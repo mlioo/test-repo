@@ -1,1 +1,10 @@
 SECRET_KEY = 12839018230812093810283
+this is just a long string of text to test some shit
+print "DYDGQNAabxsF5xQ5QLOjeHIY9NILJmFlq6RogTq506rRrpmGcWouR7R8pQqhlZ9R"
+my_super_secret_key=123
+
+-l2qp8qO575MG~Ib^b°HS{&KJz*p§_+R°gVN|~f?hAotEV!M7&K-7p7UVmqw-Jli
+
+
+var AWS_ACCESS_KEY = "ADIKASJDHAKJSHDKJAHSD"
+var SLACK_WEBHOOK = "https://hooks.slack.com/services/T12345678/B12345678/123456789012345678901234"
