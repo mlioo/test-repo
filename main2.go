@@ -1,0 +1,11 @@
+package main
+
+import "fmt"
+
+var AWS_SECRET_KEY = "AKIA123456789012345678901"
+var AWS_ACCESS_KEY = "ADIKASJDHAKJSHDKJAHSD"
+var SLACK_WEBHOOK = "https://hooks.slack.com/services/T12345678/B12345678/123456789012345678901234"
+
+func main() {
+	fmt.Println(AWS_SECRET_KEY)
+}
